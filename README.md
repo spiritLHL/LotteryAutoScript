@@ -1,3 +1,4 @@
+
 # AutoScript
 ![Automatic sweepstakes](https://github.com/shanmite/LotteryAutoScript/workflows/Automatic%20sweepstakes/badge.svg)  
 ![Automatic clear dynamic&follow](https://github.com/shanmite/LotteryAutoScript/workflows/Automatic%20clear%20dynamic&follow/badge.svg)  
@@ -117,6 +118,7 @@ Chrome浏览器:
 ![如何同步更新Github上Fork的项目](.github/update_fork.png)  
 或者  
 使用[GitHub App Pull](https://github.com/apps/pull)自动同步
+
 
 ### 多账号支持
 默认支持5个账号  
